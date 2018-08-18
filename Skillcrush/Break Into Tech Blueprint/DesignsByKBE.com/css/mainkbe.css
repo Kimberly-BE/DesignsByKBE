@@ -1,0 +1,274 @@
+/***** BASE STYLES *****/
+    body {
+      max-width: 1600px;
+      margin: 0 auto;
+
+}
+
+/***** GRID *****/
+  .full-width {
+      width: 1600px;
+      margin: 0 auto;
+}
+
+  .half-width {
+    width: 645px;
+    margin: 0 auto;
+}
+
+  .third-width {
+    width: 300px;
+    height: 355px;
+    float: left;
+}
+
+  clear {
+  clear: both;
+}
+/***** Header Section *****/
+
+  header {
+      height: 249px;
+      background-color: #000000;
+      background-size: cover;
+}
+
+  #header-logo {
+    text-align: left;
+    padding: 40px 0 0 0;
+
+}
+
+    #header-h1 {
+      font-family:'Great Vibes', sans-serif;
+      font-size: 34px;
+      color: #fff8fc;
+      margin: -115px 80px -70px -255px;
+      width: 501px;
+      text-align: left;
+      padding-right: 50px;
+
+
+}
+
+    #nav {
+      font-family: 'Poiret One', sans-serif;
+      font-size: 21px;
+      width: 900px;
+      color: #f8f4fb;
+      float: left;
+      text-align: right;
+      text-decoration: none;
+      margin-left: 45px;
+
+
+}
+    nav ul li {
+      display: inline-block;
+      word-spacing: 5px;
+      color: #f8f4fb;
+      padding: 10px 0px 25px 30px;
+
+
+ }
+
+    clear {
+      clear: both;
+}
+
+  /***** Gallery of DOPE Design Section *****/
+
+    #dope-design-full-width {
+        background-color: #f8f4fb;
+        background-size: cover;
+        width: 1600px;
+        height:593px;
+        border-top-color: #d50058;
+        border-top-width: 2px;
+
+  }
+
+    #dope-design-img-invitation {
+        margin-left: 0;
+        text-align: left;
+        padding-right: 80px;
+  }
+
+
+    #dope-design-outside-kllip {
+        padding: 200px 0px 0px 200px;
+        text-align: right;
+        margin: 300px 10px 0px 100px;
+
+
+  }
+    #dope-design-inside-kllip {
+        text-align: right;
+        margin: 50px 0px 100px 900px;
+        padding: 75px 25px 125px 925px;
+
+  }
+
+    clear {
+        clear:both;
+}
+
+    #brand-dev-design-box {
+        font-family: 'Poiret One', sans-serif;
+        color: #f63440;
+        font-size: 16px;
+        font-weight: bold;
+        width: 326px;
+        text-align: left;
+        border-radius: 10px;
+        box-shadow: 2px 2px 2px 2px #ffffff;
+        height: 180px;
+        width: 402px;
+        background-color: #f63440;
+
+  }
+
+    #dope-design-h2 {
+        font-family: 'Poiret One', sans-serif;
+        font-size: 26px;
+        font-variant: bold;
+        text-decoration: underline;
+        text-align: center;
+        color: #f8f4fa;
+
+  }
+
+    #dope-design-h3 {
+        font-family: 'Poiret One', sans-serif;
+        font-size: 24px;
+        font-variant: bold;
+        color: #f8f4fa;
+  }
+
+    #dope-design-h4 {
+        font-family: 'Poret One', sans-serif;
+        font-size: 18px;
+        text-align: left;
+        color: #f8f4fa;
+        font-variant: italic;
+  }
+
+
+  /***** About Me Section *****/
+
+    #about {
+        padding:0;
+        height: 488px;
+        border-top: 1px solid #d50058;
+        background-color: #9e1af7;
+        background-size:cover;
+
+  }
+
+    #about-half-width {
+        width: 645px;
+
+
+
+    }
+
+    #aboutkbe-pic {
+        text-align:left;
+  }
+
+
+  }
+
+    #about-p {
+      font-family: 'Arapey', sans-serif;
+      font-size: 26px;
+      color:#7f7f7f;
+      text-align: center;
+      float: left;
+
+  }
+
+    .hello {
+      font-family: 'Great Vibes', sans-serif;
+      color: #fda0a9;
+      font-size: 36px;
+      text-align: left;
+  }
+
+    .kbe {
+      font-family: 'Great Vibes', sans-serif;
+      color: #efafb6;
+      font-size: 30px;
+      text-align: right;
+  }
+
+    clear {
+      clear:both;
+  }
+/**** Satisfied Collaborators Section *****/
+
+  .satisfied-collaborators {
+      text-align: right;
+      height: 250px;
+      width: 600px;
+      background-color: #f63440;
+      border-radius: 10px;
+      box-shadow: 5px 5px 5px 5px #ffffff;
+      float: left;
+      color: #f9f6f8;
+
+}
+  clear {
+    clear: both;
+}
+
+  #satisfied-collaborators-h2 {
+      font-size: 14px;
+      font-family: 'Poriet One', sans-serif;
+      text-align: right;
+      color: #f9f6f8;
+}
+
+  #satisfied-collaborators-p {
+      font-size: 1px;
+      font-family: 'Arapey', sans-serif;
+      text-align: right;
+      color: #f9f6f8;
+      line-height: 0px;
+}
+
+  clear {
+    clear: both;
+}
+
+
+  /***** Footer/Get To Know Me Section *****/
+
+    #footer-get-to-know-me {
+      width: 1600px;
+      height: 140px;
+      background-color: #831adb;
+      background-position: cover;
+      border-top: solid 3px #ff4539;
+      border-bottom: solid 3px #ff4539;
+  }
+
+    #footer-h1 {
+      font-family: 'Great Vibes', sans-serif;
+      font-size: 30px;
+      color: #f8f4f6;
+      text-align:center;
+  }
+
+    #footer-li {
+      font-family: "Poiret One", sans-serif;
+      font-size: 18px;
+      color: #f8f4f6;
+      display: inline-block;
+      text-align: center;
+      float: left;
+
+  }
+    clear{
+      clear: both;
+    }
